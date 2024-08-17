@@ -10,7 +10,4 @@ public class HomeController {
         return "Welcome app code with fit";
     }
 
-//    @PostMapping
-//    @PutMapping
-//    @DeleteMapping
 }
